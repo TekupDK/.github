@@ -72,9 +72,9 @@ If you discover a security vulnerability in any Tekup Portfolio project, please 
    - Click "Report a vulnerability"
    - Fill out the form with details
 
-2. **Email** (Alternative)
-   - Send details to: **security@tekup.dk** (or create a private issue)
-   - Use subject: `[SECURITY] <brief description>`
+2. **Private Issue** (Alternative)
+   - Create a private security advisory
+   - Contact repository maintainers directly via GitHub
 
 ### What to Include
 
@@ -352,9 +352,9 @@ We use automated tools to keep dependencies secure:
 
 For security-related questions or concerns:
 
-- **Security Issues**: Use GitHub Security Advisories or email security@tekup.dk
+- **Security Issues**: Use GitHub Security Advisories
 - **General Questions**: Create a discussion on GitHub
-- **Urgent Matters**: Email with [URGENT] prefix
+- **Urgent Matters**: Contact repository maintainers directly via GitHub
 
 ---
 

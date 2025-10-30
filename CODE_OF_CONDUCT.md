@@ -63,9 +63,8 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at:
 
-- **Email**: conduct@tekup.dk
-- **GitHub**: Create a confidential security advisory
-- **Direct Contact**: Reach out to project maintainers privately
+- **GitHub**: Create a confidential security advisory or private issue
+- **Direct Contact**: Reach out to project maintainers privately via GitHub
 
 All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
@@ -305,9 +304,9 @@ This Code of Conduct may be amended or updated to better serve our community. We
 If you have questions about this Code of Conduct or suggestions for improvement:
 
 - 💬 Start a discussion on GitHub
-- 📧 Email conduct@tekup.dk
 - 🐛 Create an issue (for non-sensitive matters)
-- 💭 Reach out to maintainers directly
+- 💭 Reach out to maintainers directly via GitHub
+- 📧 Contact via organization discussions
 
 ---
 
@@ -325,6 +324,6 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 
 **Together, we build a welcoming and inclusive community! 🌟**
 
-[Report Issue](mailto:conduct@tekup.dk) • [GitHub Discussions](https://github.com/TekupDK/.github/discussions) • [Contributing Guide](CONTRIBUTING.md)
+[GitHub Discussions](https://github.com/TekupDK/.github/discussions) • [Contributing Guide](CONTRIBUTING.md) • [Report Issue](https://github.com/TekupDK/.github/issues/new)
 
 </div>
